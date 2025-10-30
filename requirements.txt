@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+wordcloud
+textblob
+nltk
+snscrape
+matplotlib
+plotly_express
+transformers
+torch

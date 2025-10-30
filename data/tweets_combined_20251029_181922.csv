@@ -1,0 +1,830 @@
+date,region,category,product_name,text,label,sentiment_label
+2025-08-18,AE,sofa,CozyHome Sofa,I high quality the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-08-17,AE,sofa,CozyHome Sofa,I great the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-09-28,AU,sofa,CozyHome Sofa,This CozyHome Sofa is not comfortable. Very unhappy.,negative,
+2025-09-05,IN,sofa,CozyHome Sofa,I well-made the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-09-28,DE,sofa,CozyHome Sofa,I happy with the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-08-09,ZA,sofa,CozyHome Sofa,I high quality the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-08-16,SG,sofa,CozyHome Sofa,CozyHome Sofa - ordered.,neutral,
+2025-08-26,FR,sofa,CozyHome Sofa,I well-made the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-10-28,FR,sofa,CozyHome Sofa,I high quality the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-08-09,AE,sofa,CozyHome Sofa,I great the CozyHome Sofa. Great for my sofa needs.,positive,
+2025-09-11,IN,sofa,UrbanLuxe Sofa,I love the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-09-16,CA,sofa,UrbanLuxe Sofa,I high quality the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-08-19,US,sofa,UrbanLuxe Sofa,I stylish the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-08-08,SG,sofa,UrbanLuxe Sofa,I happy with the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-08-05,FR,sofa,UrbanLuxe Sofa,I perfect the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-09-05,DE,sofa,UrbanLuxe Sofa,I high quality the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-08-28,DE,sofa,UrbanLuxe Sofa,I stylish the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-09-09,AU,sofa,UrbanLuxe Sofa,I love the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-08-06,SG,sofa,UrbanLuxe Sofa,I comfortable the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-09-12,US,sofa,UrbanLuxe Sofa,I happy with the UrbanLuxe Sofa. Great for my sofa needs.,positive,
+2025-08-11,IN,sofa,ComfortPlus Sofa,I love the ComfortPlus Sofa. Great for my sofa needs.,positive,
+2025-10-23,US,sofa,ComfortPlus Sofa,I great the ComfortPlus Sofa. Great for my sofa needs.,positive,
+2025-08-01,US,sofa,ComfortPlus Sofa,ComfortPlus Sofa - specs.,neutral,
+2025-08-23,GB,sofa,ComfortPlus Sofa,I well-made the ComfortPlus Sofa. Great for my sofa needs.,positive,
+2025-09-07,SG,sofa,ComfortPlus Sofa,ComfortPlus Sofa - price.,neutral,
+2025-10-07,IN,sofa,ComfortPlus Sofa,I comfortable the ComfortPlus Sofa. Great for my sofa needs.,positive,
+2025-08-13,US,sofa,ComfortPlus Sofa,I well-made the ComfortPlus Sofa. Great for my sofa needs.,positive,
+2025-10-08,ZA,sofa,ComfortPlus Sofa,ComfortPlus Sofa - price.,neutral,
+2025-09-22,AE,sofa,ComfortPlus Sofa,I comfortable the ComfortPlus Sofa. Great for my sofa needs.,positive,
+2025-10-14,SG,sofa,ComfortPlus Sofa,This ComfortPlus Sofa is bad. Very unhappy.,negative,
+2025-09-09,SG,sofa,EliteRelax Sofa,EliteRelax Sofa - color options.,neutral,
+2025-09-10,FR,sofa,EliteRelax Sofa,I excellent the EliteRelax Sofa. Great for my sofa needs.,positive,
+2025-10-04,SG,sofa,EliteRelax Sofa,I excellent the EliteRelax Sofa. Great for my sofa needs.,positive,
+2025-08-24,DE,sofa,EliteRelax Sofa,I best purchase the EliteRelax Sofa. Great for my sofa needs.,positive,
+2025-10-11,IN,sofa,EliteRelax Sofa,I excellent the EliteRelax Sofa. Great for my sofa needs.,positive,
+2025-08-06,AE,sofa,EliteRelax Sofa,EliteRelax Sofa - dimensions.,neutral,
+2025-08-27,FR,sofa,EliteRelax Sofa,EliteRelax Sofa - received.,neutral,
+2025-08-14,CA,sofa,EliteRelax Sofa,I perfect the EliteRelax Sofa. Great for my sofa needs.,positive,
+2025-09-29,CA,sofa,EliteRelax Sofa,This EliteRelax Sofa is cheap. Very unhappy.,negative,
+2025-08-05,FR,sofa,EliteRelax Sofa,I well-made the EliteRelax Sofa. Great for my sofa needs.,positive,
+2025-09-11,DE,sofa,BudgetBuild Sofa,I comfortable the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-09-01,DE,sofa,BudgetBuild Sofa,This BudgetBuild Sofa is cheap. Very unhappy.,negative,
+2025-10-04,DE,sofa,BudgetBuild Sofa,I happy with the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-09-22,ZA,sofa,BudgetBuild Sofa,I great the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-08-09,US,sofa,BudgetBuild Sofa,I happy with the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-09-17,ZA,sofa,BudgetBuild Sofa,I perfect the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-10-10,GB,sofa,BudgetBuild Sofa,This BudgetBuild Sofa is poor quality. Very unhappy.,negative,
+2025-08-03,SG,sofa,BudgetBuild Sofa,I comfortable the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-08-03,FR,sofa,BudgetBuild Sofa,I happy with the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-10-08,DE,sofa,BudgetBuild Sofa,I great the BudgetBuild Sofa. Great for my sofa needs.,positive,
+2025-09-26,SG,sofa,ModernSit Sofa,I high quality the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-09-06,SG,sofa,ModernSit Sofa,I well-made the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-08-17,FR,sofa,ModernSit Sofa,ModernSit Sofa - price.,neutral,
+2025-08-04,GB,sofa,ModernSit Sofa,I well-made the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-09-09,AU,sofa,ModernSit Sofa,I great the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-08-31,DE,sofa,ModernSit Sofa,I comfortable the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-09-02,SG,sofa,ModernSit Sofa,This ModernSit Sofa is disappointing. Very unhappy.,negative,
+2025-08-22,SG,sofa,ModernSit Sofa,I well-made the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-08-15,AE,sofa,ModernSit Sofa,I comfortable the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-10-13,AU,sofa,ModernSit Sofa,I comfortable the ModernSit Sofa. Great for my sofa needs.,positive,
+2025-10-06,FR,sofa,Prestige Sofa,I perfect the Prestige Sofa. Great for my sofa needs.,positive,
+2025-09-29,IN,sofa,Prestige Sofa,Prestige Sofa - delivery update.,neutral,
+2025-08-06,US,sofa,Prestige Sofa,I well-made the Prestige Sofa. Great for my sofa needs.,positive,
+2025-08-24,FR,sofa,Prestige Sofa,I best purchase the Prestige Sofa. Great for my sofa needs.,positive,
+2025-08-19,SG,sofa,Prestige Sofa,I happy with the Prestige Sofa. Great for my sofa needs.,positive,
+2025-10-11,GB,sofa,Prestige Sofa,I high quality the Prestige Sofa. Great for my sofa needs.,positive,
+2025-07-31,US,sofa,Prestige Sofa,This Prestige Sofa is worst. Very unhappy.,negative,
+2025-10-14,AE,sofa,Prestige Sofa,I perfect the Prestige Sofa. Great for my sofa needs.,positive,
+2025-09-01,US,sofa,Prestige Sofa,I great the Prestige Sofa. Great for my sofa needs.,positive,
+2025-08-27,SG,sofa,Prestige Sofa,I perfect the Prestige Sofa. Great for my sofa needs.,positive,
+2025-09-27,AU,sofa,FamilyNest Sofa,I high quality the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-19,SG,sofa,FamilyNest Sofa,I best purchase the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-04,IN,sofa,FamilyNest Sofa,I perfect the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-28,US,sofa,FamilyNest Sofa,I high quality the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-13,FR,sofa,FamilyNest Sofa,I comfortable the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-09-07,US,sofa,FamilyNest Sofa,I comfortable the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-13,DE,sofa,FamilyNest Sofa,FamilyNest Sofa - available.,neutral,
+2025-08-23,GB,sofa,FamilyNest Sofa,I best purchase the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-20,GB,sofa,FamilyNest Sofa,I best purchase the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-10-02,AE,sofa,FamilyNest Sofa,I perfect the FamilyNest Sofa. Great for my sofa needs.,positive,
+2025-08-18,CA,sofa,CloudNine Sofa,This CloudNine Sofa is missing parts. Very unhappy.,negative,
+2025-10-10,AE,sofa,CloudNine Sofa,I stylish the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-08-17,DE,sofa,CloudNine Sofa,I high quality the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-08-17,US,sofa,CloudNine Sofa,I love the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-08-16,CA,sofa,CloudNine Sofa,I well-made the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-10-20,SG,sofa,CloudNine Sofa,I love the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-08-26,US,sofa,CloudNine Sofa,I perfect the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-08-15,CA,sofa,CloudNine Sofa,I high quality the CloudNine Sofa. Great for my sofa needs.,positive,
+2025-08-18,US,sofa,CloudNine Sofa,This CloudNine Sofa is not comfortable. Very unhappy.,negative,
+2025-10-05,US,sofa,CloudNine Sofa,This CloudNine Sofa is damaged. Very unhappy.,negative,
+2025-09-28,SG,sofa,RoyalLounger Sofa,I stylish the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-08-15,FR,sofa,RoyalLounger Sofa,I great the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-08-24,IN,sofa,RoyalLounger Sofa,I love the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-08-12,US,sofa,RoyalLounger Sofa,RoyalLounger Sofa - inquiry.,neutral,
+2025-08-03,IN,sofa,RoyalLounger Sofa,I perfect the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-09-03,AU,sofa,RoyalLounger Sofa,I high quality the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-09-01,DE,sofa,RoyalLounger Sofa,RoyalLounger Sofa - color options.,neutral,
+2025-10-26,ZA,sofa,RoyalLounger Sofa,RoyalLounger Sofa - received.,neutral,
+2025-10-19,AE,sofa,RoyalLounger Sofa,I love the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-09-19,AU,sofa,RoyalLounger Sofa,I great the RoyalLounger Sofa. Great for my sofa needs.,positive,
+2025-09-14,SG,bed,SleepWell Bed,SleepWell Bed - ordered.,neutral,
+2025-08-12,AE,bed,SleepWell Bed,I happy with the SleepWell Bed. Great for my bed needs.,positive,
+2025-10-27,US,bed,SleepWell Bed,I love the SleepWell Bed. Great for my bed needs.,positive,
+2025-10-13,AE,bed,SleepWell Bed,SleepWell Bed - ordered.,neutral,
+2025-10-20,GB,bed,SleepWell Bed,I excellent the SleepWell Bed. Great for my bed needs.,positive,
+2025-08-04,DE,bed,SleepWell Bed,I excellent the SleepWell Bed. Great for my bed needs.,positive,
+2025-10-19,DE,bed,SleepWell Bed,This SleepWell Bed is missing parts. Very unhappy.,negative,
+2025-10-11,AE,bed,SleepWell Bed,This SleepWell Bed is disappointing. Very unhappy.,negative,
+2025-09-02,US,bed,SleepWell Bed,I happy with the SleepWell Bed. Great for my bed needs.,positive,
+2025-10-08,CA,bed,SleepWell Bed,I high quality the SleepWell Bed. Great for my bed needs.,positive,
+2025-10-23,GB,bed,DreamSpace Bed,I perfect the DreamSpace Bed. Great for my bed needs.,positive,
+2025-07-31,ZA,bed,DreamSpace Bed,DreamSpace Bed - color options.,neutral,
+2025-08-14,IN,bed,DreamSpace Bed,I great the DreamSpace Bed. Great for my bed needs.,positive,
+2025-09-16,SG,bed,DreamSpace Bed,I high quality the DreamSpace Bed. Great for my bed needs.,positive,
+2025-08-26,IN,bed,DreamSpace Bed,I excellent the DreamSpace Bed. Great for my bed needs.,positive,
+2025-09-20,ZA,bed,DreamSpace Bed,This DreamSpace Bed is poor quality. Very unhappy.,negative,
+2025-10-16,DE,bed,DreamSpace Bed,I well-made the DreamSpace Bed. Great for my bed needs.,positive,
+2025-09-08,AU,bed,DreamSpace Bed,I comfortable the DreamSpace Bed. Great for my bed needs.,positive,
+2025-09-12,GB,bed,DreamSpace Bed,I best purchase the DreamSpace Bed. Great for my bed needs.,positive,
+2025-08-13,AE,bed,DreamSpace Bed,DreamSpace Bed - ordered.,neutral,
+2025-08-13,AU,bed,ComfortRest Bed,I stylish the ComfortRest Bed. Great for my bed needs.,positive,
+2025-10-28,AE,bed,ComfortRest Bed,I stylish the ComfortRest Bed. Great for my bed needs.,positive,
+2025-10-18,GB,bed,ComfortRest Bed,I well-made the ComfortRest Bed. Great for my bed needs.,positive,
+2025-08-04,AU,bed,ComfortRest Bed,I well-made the ComfortRest Bed. Great for my bed needs.,positive,
+2025-08-22,AU,bed,ComfortRest Bed,This ComfortRest Bed is late delivery. Very unhappy.,negative,
+2025-08-22,CA,bed,ComfortRest Bed,I perfect the ComfortRest Bed. Great for my bed needs.,positive,
+2025-08-30,FR,bed,ComfortRest Bed,This ComfortRest Bed is worst. Very unhappy.,negative,
+2025-09-22,US,bed,ComfortRest Bed,I perfect the ComfortRest Bed. Great for my bed needs.,positive,
+2025-09-08,US,bed,ComfortRest Bed,ComfortRest Bed - price.,neutral,
+2025-09-02,SG,bed,ComfortRest Bed,I love the ComfortRest Bed. Great for my bed needs.,positive,
+2025-10-04,GB,bed,OrthoCare Bed,I best purchase the OrthoCare Bed. Great for my bed needs.,positive,
+2025-08-13,GB,bed,OrthoCare Bed,I happy with the OrthoCare Bed. Great for my bed needs.,positive,
+2025-10-14,AE,bed,OrthoCare Bed,This OrthoCare Bed is missing parts. Very unhappy.,negative,
+2025-08-05,CA,bed,OrthoCare Bed,I well-made the OrthoCare Bed. Great for my bed needs.,positive,
+2025-10-01,IN,bed,OrthoCare Bed,I stylish the OrthoCare Bed. Great for my bed needs.,positive,
+2025-10-25,GB,bed,OrthoCare Bed,I love the OrthoCare Bed. Great for my bed needs.,positive,
+2025-08-10,IN,bed,OrthoCare Bed,I happy with the OrthoCare Bed. Great for my bed needs.,positive,
+2025-08-26,GB,bed,OrthoCare Bed,I comfortable the OrthoCare Bed. Great for my bed needs.,positive,
+2025-08-25,IN,bed,OrthoCare Bed,OrthoCare Bed - delivery update.,neutral,
+2025-10-15,ZA,bed,OrthoCare Bed,This OrthoCare Bed is broken. Very unhappy.,negative,
+2025-10-10,AE,bed,Midnight Bed,I high quality the Midnight Bed. Great for my bed needs.,positive,
+2025-10-07,US,bed,Midnight Bed,I perfect the Midnight Bed. Great for my bed needs.,positive,
+2025-08-14,AE,bed,Midnight Bed,This Midnight Bed is not comfortable. Very unhappy.,negative,
+2025-09-05,FR,bed,Midnight Bed,I stylish the Midnight Bed. Great for my bed needs.,positive,
+2025-09-13,US,bed,Midnight Bed,I high quality the Midnight Bed. Great for my bed needs.,positive,
+2025-09-09,GB,bed,Midnight Bed,This Midnight Bed is cheap. Very unhappy.,negative,
+2025-10-23,IN,bed,Midnight Bed,I high quality the Midnight Bed. Great for my bed needs.,positive,
+2025-10-29,IN,bed,Midnight Bed,I well-made the Midnight Bed. Great for my bed needs.,positive,
+2025-09-22,GB,bed,Midnight Bed,I best purchase the Midnight Bed. Great for my bed needs.,positive,
+2025-09-20,ZA,bed,Midnight Bed,I high quality the Midnight Bed. Great for my bed needs.,positive,
+2025-08-01,GB,bed,RestEasy Bed,I happy with the RestEasy Bed. Great for my bed needs.,positive,
+2025-09-28,AE,bed,RestEasy Bed,This RestEasy Bed is cheap. Very unhappy.,negative,
+2025-09-11,SG,bed,RestEasy Bed,I well-made the RestEasy Bed. Great for my bed needs.,positive,
+2025-10-09,AU,bed,RestEasy Bed,I happy with the RestEasy Bed. Great for my bed needs.,positive,
+2025-08-11,GB,bed,RestEasy Bed,I excellent the RestEasy Bed. Great for my bed needs.,positive,
+2025-10-07,US,bed,RestEasy Bed,I perfect the RestEasy Bed. Great for my bed needs.,positive,
+2025-08-16,ZA,bed,RestEasy Bed,I perfect the RestEasy Bed. Great for my bed needs.,positive,
+2025-10-02,US,bed,RestEasy Bed,This RestEasy Bed is bad. Very unhappy.,negative,
+2025-08-03,AE,bed,RestEasy Bed,I well-made the RestEasy Bed. Great for my bed needs.,positive,
+2025-08-26,CA,bed,RestEasy Bed,I stylish the RestEasy Bed. Great for my bed needs.,positive,
+2025-10-15,FR,bed,CloudSleep Bed,This CloudSleep Bed is worst. Very unhappy.,negative,
+2025-10-21,GB,bed,CloudSleep Bed,I love the CloudSleep Bed. Great for my bed needs.,positive,
+2025-10-11,AE,bed,CloudSleep Bed,I well-made the CloudSleep Bed. Great for my bed needs.,positive,
+2025-08-20,IN,bed,CloudSleep Bed,This CloudSleep Bed is disappointing. Very unhappy.,negative,
+2025-08-12,DE,bed,CloudSleep Bed,I happy with the CloudSleep Bed. Great for my bed needs.,positive,
+2025-10-16,SG,bed,CloudSleep Bed,I happy with the CloudSleep Bed. Great for my bed needs.,positive,
+2025-08-12,AE,bed,CloudSleep Bed,I high quality the CloudSleep Bed. Great for my bed needs.,positive,
+2025-08-22,ZA,bed,CloudSleep Bed,This CloudSleep Bed is cheap. Very unhappy.,negative,
+2025-10-22,AE,bed,CloudSleep Bed,I love the CloudSleep Bed. Great for my bed needs.,positive,
+2025-10-22,ZA,bed,CloudSleep Bed,CloudSleep Bed - delivery update.,neutral,
+2025-10-12,GB,bed,NightHaven Bed,I great the NightHaven Bed. Great for my bed needs.,positive,
+2025-09-25,GB,bed,NightHaven Bed,NightHaven Bed - ordered.,neutral,
+2025-10-14,US,bed,NightHaven Bed,I best purchase the NightHaven Bed. Great for my bed needs.,positive,
+2025-09-21,ZA,bed,NightHaven Bed,I stylish the NightHaven Bed. Great for my bed needs.,positive,
+2025-08-28,ZA,bed,NightHaven Bed,I happy with the NightHaven Bed. Great for my bed needs.,positive,
+2025-10-01,IN,bed,NightHaven Bed,I perfect the NightHaven Bed. Great for my bed needs.,positive,
+2025-08-08,AE,bed,NightHaven Bed,I happy with the NightHaven Bed. Great for my bed needs.,positive,
+2025-08-25,CA,bed,NightHaven Bed,I great the NightHaven Bed. Great for my bed needs.,positive,
+2025-09-12,ZA,bed,NightHaven Bed,NightHaven Bed - price.,neutral,
+2025-08-10,AE,bed,NightHaven Bed,This NightHaven Bed is late delivery. Very unhappy.,negative,
+2025-10-27,US,bed,LuxeSleep Bed,LuxeSleep Bed - dimensions.,neutral,
+2025-09-27,SG,bed,LuxeSleep Bed,I perfect the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-10-16,GB,bed,LuxeSleep Bed,I love the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-10-02,ZA,bed,LuxeSleep Bed,I best purchase the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-09-14,ZA,bed,LuxeSleep Bed,I stylish the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-10-23,GB,bed,LuxeSleep Bed,I perfect the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-08-25,AE,bed,LuxeSleep Bed,I excellent the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-08-08,AU,bed,LuxeSleep Bed,LuxeSleep Bed - dimensions.,neutral,
+2025-08-15,IN,bed,LuxeSleep Bed,I happy with the LuxeSleep Bed. Great for my bed needs.,positive,
+2025-08-25,US,bed,LuxeSleep Bed,This LuxeSleep Bed is missing parts. Very unhappy.,negative,
+2025-10-13,SG,bed,PocketSpring Bed,I comfortable the PocketSpring Bed. Great for my bed needs.,positive,
+2025-10-12,US,bed,PocketSpring Bed,I well-made the PocketSpring Bed. Great for my bed needs.,positive,
+2025-08-16,CA,bed,PocketSpring Bed,I happy with the PocketSpring Bed. Great for my bed needs.,positive,
+2025-08-26,AE,bed,PocketSpring Bed,I high quality the PocketSpring Bed. Great for my bed needs.,positive,
+2025-09-19,DE,bed,PocketSpring Bed,I perfect the PocketSpring Bed. Great for my bed needs.,positive,
+2025-08-22,ZA,bed,PocketSpring Bed,I best purchase the PocketSpring Bed. Great for my bed needs.,positive,
+2025-10-24,ZA,bed,PocketSpring Bed,I well-made the PocketSpring Bed. Great for my bed needs.,positive,
+2025-10-09,ZA,bed,PocketSpring Bed,PocketSpring Bed - ordered.,neutral,
+2025-10-01,US,bed,PocketSpring Bed,I great the PocketSpring Bed. Great for my bed needs.,positive,
+2025-08-20,FR,bed,PocketSpring Bed,I perfect the PocketSpring Bed. Great for my bed needs.,positive,
+2025-09-27,IN,chair,ErgoPro Chair,I great the ErgoPro Chair. Great for my chair needs.,positive,
+2025-10-11,FR,chair,ErgoPro Chair,This ErgoPro Chair is late delivery. Very unhappy.,negative,
+2025-09-04,FR,chair,ErgoPro Chair,I stylish the ErgoPro Chair. Great for my chair needs.,positive,
+2025-09-27,IN,chair,ErgoPro Chair,I stylish the ErgoPro Chair. Great for my chair needs.,positive,
+2025-09-06,SG,chair,ErgoPro Chair,I perfect the ErgoPro Chair. Great for my chair needs.,positive,
+2025-10-16,SG,chair,ErgoPro Chair,ErgoPro Chair - ordered.,neutral,
+2025-08-24,ZA,chair,ErgoPro Chair,ErgoPro Chair - dimensions.,neutral,
+2025-08-02,AE,chair,ErgoPro Chair,I great the ErgoPro Chair. Great for my chair needs.,positive,
+2025-08-06,AE,chair,ErgoPro Chair,I perfect the ErgoPro Chair. Great for my chair needs.,positive,
+2025-08-22,CA,chair,ErgoPro Chair,I stylish the ErgoPro Chair. Great for my chair needs.,positive,
+2025-09-04,US,chair,GreenSoul Chair,I perfect the GreenSoul Chair. Great for my chair needs.,positive,
+2025-08-08,GB,chair,GreenSoul Chair,This GreenSoul Chair is missing parts. Very unhappy.,negative,
+2025-09-14,DE,chair,GreenSoul Chair,I love the GreenSoul Chair. Great for my chair needs.,positive,
+2025-09-12,DE,chair,GreenSoul Chair,I happy with the GreenSoul Chair. Great for my chair needs.,positive,
+2025-10-09,GB,chair,GreenSoul Chair,GreenSoul Chair - ordered.,neutral,
+2025-08-22,IN,chair,GreenSoul Chair,GreenSoul Chair - product info.,neutral,
+2025-10-11,US,chair,GreenSoul Chair,GreenSoul Chair - color options.,neutral,
+2025-10-03,AE,chair,GreenSoul Chair,I great the GreenSoul Chair. Great for my chair needs.,positive,
+2025-09-15,IN,chair,GreenSoul Chair,GreenSoul Chair - product info.,neutral,
+2025-10-02,GB,chair,GreenSoul Chair,This GreenSoul Chair is worst. Very unhappy.,negative,
+2025-10-19,GB,chair,RelaxMate Chair,This RelaxMate Chair is not comfortable. Very unhappy.,negative,
+2025-09-18,DE,chair,RelaxMate Chair,RelaxMate Chair - received.,neutral,
+2025-08-28,FR,chair,RelaxMate Chair,RelaxMate Chair - dimensions.,neutral,
+2025-09-26,CA,chair,RelaxMate Chair,I well-made the RelaxMate Chair. Great for my chair needs.,positive,
+2025-09-23,DE,chair,RelaxMate Chair,RelaxMate Chair - delivery update.,neutral,
+2025-09-01,AE,chair,RelaxMate Chair,I great the RelaxMate Chair. Great for my chair needs.,positive,
+2025-09-20,IN,chair,RelaxMate Chair,I excellent the RelaxMate Chair. Great for my chair needs.,positive,
+2025-08-17,AE,chair,RelaxMate Chair,RelaxMate Chair - inquiry.,neutral,
+2025-08-05,AU,chair,RelaxMate Chair,I well-made the RelaxMate Chair. Great for my chair needs.,positive,
+2025-09-29,FR,chair,RelaxMate Chair,RelaxMate Chair - available.,neutral,
+2025-10-20,CA,chair,StudyBuddy Chair,I well-made the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-09-01,FR,chair,StudyBuddy Chair,I stylish the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-09-06,ZA,chair,StudyBuddy Chair,StudyBuddy Chair - received.,neutral,
+2025-09-03,CA,chair,StudyBuddy Chair,This StudyBuddy Chair is worst. Very unhappy.,negative,
+2025-08-13,AE,chair,StudyBuddy Chair,I comfortable the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-10-05,SG,chair,StudyBuddy Chair,I comfortable the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-08-13,GB,chair,StudyBuddy Chair,I best purchase the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-10-22,US,chair,StudyBuddy Chair,I high quality the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-10-25,IN,chair,StudyBuddy Chair,I perfect the StudyBuddy Chair. Great for my chair needs.,positive,
+2025-10-05,SG,chair,StudyBuddy Chair,StudyBuddy Chair - product info.,neutral,
+2025-09-13,AE,chair,DiningEase Chair,DiningEase Chair - specs.,neutral,
+2025-08-16,CA,chair,DiningEase Chair,I well-made the DiningEase Chair. Great for my chair needs.,positive,
+2025-09-21,ZA,chair,DiningEase Chair,I well-made the DiningEase Chair. Great for my chair needs.,positive,
+2025-10-29,FR,chair,DiningEase Chair,This DiningEase Chair is worst. Very unhappy.,negative,
+2025-09-23,FR,chair,DiningEase Chair,I perfect the DiningEase Chair. Great for my chair needs.,positive,
+2025-09-06,DE,chair,DiningEase Chair,DiningEase Chair - inquiry.,neutral,
+2025-08-04,AU,chair,DiningEase Chair,I high quality the DiningEase Chair. Great for my chair needs.,positive,
+2025-10-22,SG,chair,DiningEase Chair,I love the DiningEase Chair. Great for my chair needs.,positive,
+2025-08-28,FR,chair,DiningEase Chair,I well-made the DiningEase Chair. Great for my chair needs.,positive,
+2025-10-14,FR,chair,DiningEase Chair,I excellent the DiningEase Chair. Great for my chair needs.,positive,
+2025-10-20,GB,chair,OfficeKing Chair,OfficeKing Chair - delivery update.,neutral,
+2025-08-19,DE,chair,OfficeKing Chair,OfficeKing Chair - dimensions.,neutral,
+2025-10-15,AE,chair,OfficeKing Chair,I high quality the OfficeKing Chair. Great for my chair needs.,positive,
+2025-10-03,AE,chair,OfficeKing Chair,I great the OfficeKing Chair. Great for my chair needs.,positive,
+2025-09-19,US,chair,OfficeKing Chair,I well-made the OfficeKing Chair. Great for my chair needs.,positive,
+2025-10-24,IN,chair,OfficeKing Chair,OfficeKing Chair - received.,neutral,
+2025-10-19,IN,chair,OfficeKing Chair,This OfficeKing Chair is broken. Very unhappy.,negative,
+2025-09-03,AU,chair,OfficeKing Chair,I comfortable the OfficeKing Chair. Great for my chair needs.,positive,
+2025-08-01,CA,chair,OfficeKing Chair,OfficeKing Chair - ordered.,neutral,
+2025-09-03,ZA,chair,OfficeKing Chair,I best purchase the OfficeKing Chair. Great for my chair needs.,positive,
+2025-09-09,IN,chair,PosturePlus Chair,I love the PosturePlus Chair. Great for my chair needs.,positive,
+2025-08-19,DE,chair,PosturePlus Chair,I stylish the PosturePlus Chair. Great for my chair needs.,positive,
+2025-09-29,DE,chair,PosturePlus Chair,I perfect the PosturePlus Chair. Great for my chair needs.,positive,
+2025-10-01,US,chair,PosturePlus Chair,I stylish the PosturePlus Chair. Great for my chair needs.,positive,
+2025-08-12,AE,chair,PosturePlus Chair,I well-made the PosturePlus Chair. Great for my chair needs.,positive,
+2025-09-12,SG,chair,PosturePlus Chair,This PosturePlus Chair is cheap. Very unhappy.,negative,
+2025-08-16,AU,chair,PosturePlus Chair,This PosturePlus Chair is worst. Very unhappy.,negative,
+2025-10-09,US,chair,PosturePlus Chair,I great the PosturePlus Chair. Great for my chair needs.,positive,
+2025-08-31,FR,chair,PosturePlus Chair,I happy with the PosturePlus Chair. Great for my chair needs.,positive,
+2025-08-28,IN,chair,PosturePlus Chair,This PosturePlus Chair is broken. Very unhappy.,negative,
+2025-10-20,SG,chair,QuickSit Chair,I stylish the QuickSit Chair. Great for my chair needs.,positive,
+2025-08-22,DE,chair,QuickSit Chair,I great the QuickSit Chair. Great for my chair needs.,positive,
+2025-10-19,ZA,chair,QuickSit Chair,I happy with the QuickSit Chair. Great for my chair needs.,positive,
+2025-09-13,AU,chair,QuickSit Chair,I stylish the QuickSit Chair. Great for my chair needs.,positive,
+2025-09-16,AE,chair,QuickSit Chair,QuickSit Chair - available.,neutral,
+2025-08-18,GB,chair,QuickSit Chair,I comfortable the QuickSit Chair. Great for my chair needs.,positive,
+2025-09-12,US,chair,QuickSit Chair,I perfect the QuickSit Chair. Great for my chair needs.,positive,
+2025-08-29,AE,chair,QuickSit Chair,I perfect the QuickSit Chair. Great for my chair needs.,positive,
+2025-08-07,FR,chair,QuickSit Chair,This QuickSit Chair is worst. Very unhappy.,negative,
+2025-08-26,AE,chair,QuickSit Chair,I great the QuickSit Chair. Great for my chair needs.,positive,
+2025-08-21,IN,chair,ComfyDining Chair,I perfect the ComfyDining Chair. Great for my chair needs.,positive,
+2025-08-09,IN,chair,ComfyDining Chair,This ComfyDining Chair is broken. Very unhappy.,negative,
+2025-08-25,ZA,chair,ComfyDining Chair,This ComfyDining Chair is late delivery. Very unhappy.,negative,
+2025-09-04,IN,chair,ComfyDining Chair,ComfyDining Chair - dimensions.,neutral,
+2025-08-21,AU,chair,ComfyDining Chair,ComfyDining Chair - available.,neutral,
+2025-09-01,CA,chair,ComfyDining Chair,This ComfyDining Chair is late delivery. Very unhappy.,negative,
+2025-10-04,FR,chair,ComfyDining Chair,This ComfyDining Chair is disappointing. Very unhappy.,negative,
+2025-08-17,ZA,chair,ComfyDining Chair,I excellent the ComfyDining Chair. Great for my chair needs.,positive,
+2025-09-09,AU,chair,ComfyDining Chair,ComfyDining Chair - dimensions.,neutral,
+2025-08-30,FR,chair,ComfyDining Chair,I comfortable the ComfyDining Chair. Great for my chair needs.,positive,
+2025-10-20,FR,chair,StackIt Chair,I high quality the StackIt Chair. Great for my chair needs.,positive,
+2025-10-07,CA,chair,StackIt Chair,I excellent the StackIt Chair. Great for my chair needs.,positive,
+2025-08-12,AE,chair,StackIt Chair,This StackIt Chair is poor quality. Very unhappy.,negative,
+2025-09-16,US,chair,StackIt Chair,I best purchase the StackIt Chair. Great for my chair needs.,positive,
+2025-10-08,DE,chair,StackIt Chair,I great the StackIt Chair. Great for my chair needs.,positive,
+2025-10-18,CA,chair,StackIt Chair,I well-made the StackIt Chair. Great for my chair needs.,positive,
+2025-09-01,GB,chair,StackIt Chair,StackIt Chair - received.,neutral,
+2025-09-06,ZA,chair,StackIt Chair,I love the StackIt Chair. Great for my chair needs.,positive,
+2025-10-07,US,chair,StackIt Chair,I high quality the StackIt Chair. Great for my chair needs.,positive,
+2025-10-29,AE,chair,StackIt Chair,StackIt Chair - dimensions.,neutral,
+2025-08-20,US,table,StudySleek Table,I love the StudySleek Table. Great for my table needs.,positive,
+2025-08-30,ZA,table,StudySleek Table,I happy with the StudySleek Table. Great for my table needs.,positive,
+2025-10-01,CA,table,StudySleek Table,StudySleek Table - price.,neutral,
+2025-10-10,AE,table,StudySleek Table,This StudySleek Table is poor quality. Very unhappy.,negative,
+2025-09-18,SG,table,StudySleek Table,I stylish the StudySleek Table. Great for my table needs.,positive,
+2025-10-06,US,table,StudySleek Table,This StudySleek Table is worst. Very unhappy.,negative,
+2025-09-16,FR,table,StudySleek Table,I best purchase the StudySleek Table. Great for my table needs.,positive,
+2025-08-31,AE,table,StudySleek Table,I love the StudySleek Table. Great for my table needs.,positive,
+2025-07-31,US,table,StudySleek Table,StudySleek Table - delivery update.,neutral,
+2025-08-15,IN,table,StudySleek Table,I best purchase the StudySleek Table. Great for my table needs.,positive,
+2025-09-02,SG,table,CoffeeCraft Table,CoffeeCraft Table - received.,neutral,
+2025-09-11,SG,table,CoffeeCraft Table,I stylish the CoffeeCraft Table. Great for my table needs.,positive,
+2025-09-26,DE,table,CoffeeCraft Table,I excellent the CoffeeCraft Table. Great for my table needs.,positive,
+2025-09-03,DE,table,CoffeeCraft Table,CoffeeCraft Table - ordered.,neutral,
+2025-10-10,SG,table,CoffeeCraft Table,CoffeeCraft Table - price.,neutral,
+2025-08-27,GB,table,CoffeeCraft Table,CoffeeCraft Table - ordered.,neutral,
+2025-10-28,AU,table,CoffeeCraft Table,I best purchase the CoffeeCraft Table. Great for my table needs.,positive,
+2025-08-28,CA,table,CoffeeCraft Table,CoffeeCraft Table - ordered.,neutral,
+2025-10-24,FR,table,CoffeeCraft Table,This CoffeeCraft Table is broken. Very unhappy.,negative,
+2025-10-14,GB,table,CoffeeCraft Table,This CoffeeCraft Table is cheap. Very unhappy.,negative,
+2025-10-21,GB,table,DinnerDelight Table,I great the DinnerDelight Table. Great for my table needs.,positive,
+2025-09-14,FR,table,DinnerDelight Table,I great the DinnerDelight Table. Great for my table needs.,positive,
+2025-09-06,AU,table,DinnerDelight Table,I comfortable the DinnerDelight Table. Great for my table needs.,positive,
+2025-08-21,IN,table,DinnerDelight Table,I excellent the DinnerDelight Table. Great for my table needs.,positive,
+2025-08-28,CA,table,DinnerDelight Table,I love the DinnerDelight Table. Great for my table needs.,positive,
+2025-08-21,ZA,table,DinnerDelight Table,DinnerDelight Table - inquiry.,neutral,
+2025-09-20,AE,table,DinnerDelight Table,I love the DinnerDelight Table. Great for my table needs.,positive,
+2025-10-13,GB,table,DinnerDelight Table,This DinnerDelight Table is missing parts. Very unhappy.,negative,
+2025-10-19,DE,table,DinnerDelight Table,I excellent the DinnerDelight Table. Great for my table needs.,positive,
+2025-08-01,DE,table,DinnerDelight Table,This DinnerDelight Table is worst. Very unhappy.,negative,
+2025-10-21,FR,table,CraftWork Table,CraftWork Table - color options.,neutral,
+2025-08-05,SG,table,CraftWork Table,This CraftWork Table is bad. Very unhappy.,negative,
+2025-08-17,US,table,CraftWork Table,This CraftWork Table is worst. Very unhappy.,negative,
+2025-10-29,IN,table,CraftWork Table,CraftWork Table - dimensions.,neutral,
+2025-08-23,GB,table,CraftWork Table,I great the CraftWork Table. Great for my table needs.,positive,
+2025-10-11,AU,table,CraftWork Table,I comfortable the CraftWork Table. Great for my table needs.,positive,
+2025-08-20,IN,table,CraftWork Table,I stylish the CraftWork Table. Great for my table needs.,positive,
+2025-10-01,AU,table,CraftWork Table,I stylish the CraftWork Table. Great for my table needs.,positive,
+2025-08-21,DE,table,CraftWork Table,CraftWork Table - specs.,neutral,
+2025-08-16,ZA,table,CraftWork Table,CraftWork Table - inquiry.,neutral,
+2025-09-01,AU,table,MultiFold Table,This MultiFold Table is bad. Very unhappy.,negative,
+2025-10-25,AU,table,MultiFold Table,I best purchase the MultiFold Table. Great for my table needs.,positive,
+2025-10-26,SG,table,MultiFold Table,I perfect the MultiFold Table. Great for my table needs.,positive,
+2025-08-23,CA,table,MultiFold Table,I excellent the MultiFold Table. Great for my table needs.,positive,
+2025-08-27,AU,table,MultiFold Table,MultiFold Table - received.,neutral,
+2025-09-18,SG,table,MultiFold Table,MultiFold Table - dimensions.,neutral,
+2025-10-18,GB,table,MultiFold Table,I best purchase the MultiFold Table. Great for my table needs.,positive,
+2025-07-31,DE,table,MultiFold Table,This MultiFold Table is broken. Very unhappy.,negative,
+2025-08-09,ZA,table,MultiFold Table,I comfortable the MultiFold Table. Great for my table needs.,positive,
+2025-10-15,SG,table,MultiFold Table,MultiFold Table - ordered.,neutral,
+2025-10-25,GB,table,FamilyTable Table,This FamilyTable Table is late delivery. Very unhappy.,negative,
+2025-09-07,GB,table,FamilyTable Table,I happy with the FamilyTable Table. Great for my table needs.,positive,
+2025-10-19,ZA,table,FamilyTable Table,I stylish the FamilyTable Table. Great for my table needs.,positive,
+2025-10-20,GB,table,FamilyTable Table,I perfect the FamilyTable Table. Great for my table needs.,positive,
+2025-10-07,AU,table,FamilyTable Table,I high quality the FamilyTable Table. Great for my table needs.,positive,
+2025-10-17,IN,table,FamilyTable Table,I comfortable the FamilyTable Table. Great for my table needs.,positive,
+2025-09-29,DE,table,FamilyTable Table,FamilyTable Table - ordered.,neutral,
+2025-09-23,DE,table,FamilyTable Table,FamilyTable Table - color options.,neutral,
+2025-09-13,FR,table,FamilyTable Table,I high quality the FamilyTable Table. Great for my table needs.,positive,
+2025-10-29,ZA,table,FamilyTable Table,I high quality the FamilyTable Table. Great for my table needs.,positive,
+2025-09-25,DE,table,CompactDesk Table,CompactDesk Table - received.,neutral,
+2025-10-26,AU,table,CompactDesk Table,I great the CompactDesk Table. Great for my table needs.,positive,
+2025-08-16,ZA,table,CompactDesk Table,I best purchase the CompactDesk Table. Great for my table needs.,positive,
+2025-10-29,SG,table,CompactDesk Table,I well-made the CompactDesk Table. Great for my table needs.,positive,
+2025-09-25,ZA,table,CompactDesk Table,I well-made the CompactDesk Table. Great for my table needs.,positive,
+2025-10-05,SG,table,CompactDesk Table,I best purchase the CompactDesk Table. Great for my table needs.,positive,
+2025-10-03,CA,table,CompactDesk Table,CompactDesk Table - price.,neutral,
+2025-10-14,AU,table,CompactDesk Table,I well-made the CompactDesk Table. Great for my table needs.,positive,
+2025-09-27,ZA,table,CompactDesk Table,I well-made the CompactDesk Table. Great for my table needs.,positive,
+2025-09-06,CA,table,CompactDesk Table,CompactDesk Table - price.,neutral,
+2025-10-21,AU,table,RusticWood Table,This RusticWood Table is not comfortable. Very unhappy.,negative,
+2025-09-28,GB,table,RusticWood Table,I great the RusticWood Table. Great for my table needs.,positive,
+2025-10-05,DE,table,RusticWood Table,RusticWood Table - color options.,neutral,
+2025-10-25,CA,table,RusticWood Table,I best purchase the RusticWood Table. Great for my table needs.,positive,
+2025-08-19,US,table,RusticWood Table,I comfortable the RusticWood Table. Great for my table needs.,positive,
+2025-10-05,ZA,table,RusticWood Table,I best purchase the RusticWood Table. Great for my table needs.,positive,
+2025-08-03,ZA,table,RusticWood Table,RusticWood Table - price.,neutral,
+2025-10-24,ZA,table,RusticWood Table,This RusticWood Table is missing parts. Very unhappy.,negative,
+2025-10-13,AE,table,RusticWood Table,I comfortable the RusticWood Table. Great for my table needs.,positive,
+2025-09-19,CA,table,RusticWood Table,RusticWood Table - ordered.,neutral,
+2025-09-13,SG,table,ClearSpace Table,I perfect the ClearSpace Table. Great for my table needs.,positive,
+2025-09-21,AE,table,ClearSpace Table,This ClearSpace Table is not comfortable. Very unhappy.,negative,
+2025-09-17,GB,table,ClearSpace Table,ClearSpace Table - available.,neutral,
+2025-08-06,US,table,ClearSpace Table,I excellent the ClearSpace Table. Great for my table needs.,positive,
+2025-08-16,AE,table,ClearSpace Table,I excellent the ClearSpace Table. Great for my table needs.,positive,
+2025-08-29,ZA,table,ClearSpace Table,I well-made the ClearSpace Table. Great for my table needs.,positive,
+2025-10-28,US,table,ClearSpace Table,This ClearSpace Table is bad. Very unhappy.,negative,
+2025-09-09,ZA,table,ClearSpace Table,ClearSpace Table - delivery update.,neutral,
+2025-10-19,GB,table,ClearSpace Table,I great the ClearSpace Table. Great for my table needs.,positive,
+2025-09-03,AU,table,ClearSpace Table,I excellent the ClearSpace Table. Great for my table needs.,positive,
+2025-08-31,SG,table,Minimalist Table,This Minimalist Table is not comfortable. Very unhappy.,negative,
+2025-10-04,SG,table,Minimalist Table,I stylish the Minimalist Table. Great for my table needs.,positive,
+2025-09-03,GB,table,Minimalist Table,I love the Minimalist Table. Great for my table needs.,positive,
+2025-10-07,CA,table,Minimalist Table,I comfortable the Minimalist Table. Great for my table needs.,positive,
+2025-09-26,SG,table,Minimalist Table,Minimalist Table - received.,neutral,
+2025-10-23,ZA,table,Minimalist Table,I comfortable the Minimalist Table. Great for my table needs.,positive,
+2025-08-31,US,table,Minimalist Table,Minimalist Table - price.,neutral,
+2025-10-20,GB,table,Minimalist Table,I comfortable the Minimalist Table. Great for my table needs.,positive,
+2025-10-14,DE,table,Minimalist Table,This Minimalist Table is late delivery. Very unhappy.,negative,
+2025-09-23,AU,table,Minimalist Table,Minimalist Table - received.,neutral,
+2025-10-29 12:48:36+00:00,unknown,sofa,sofa,@OsarodionChosen @KillaKreww obviously haaland's best friend hasn't responded her so she settled with rich one. most tricky part is we actually dont know who is pounding her in the bed or sofa other than haaland at all.,,positive
+2025-10-29 12:48:35+00:00,unknown,sofa,sofa,If you think this is hot… you’re not ready for the full video😈 we’re building a little sex dungeon and we were testing out the new sofa.. its perfect 🥰 https://t.co/S3PzG4T5S0,,positive
+2025-10-29 12:48:17+00:00,unknown,sofa,sofa,Doing nothing? A.k.a. $SIT doing the heavy lifting. 💸 Grab some and let your sofa be a staking platform. #DoNothingEarnSomething #BNBChain #MemeCoin   🚀😉,,negative
+2025-10-29 12:48:09+00:00,unknown,sofa,sofa,"@Sofa_Kingbad @glarywang26086 @Talossa @FBIDenver @NickWallsteadt @kwallsteadt @FestiveWarrior @irishmom0508 @wallsteadt @qatarairways @HugoAwardFan @WeaponizD1 @guardpilot True—2025 polls mark historic lows, with US sympathy for Israelis below 50% for the first time in 25 years (Gallup/PBS), 59% unfavorable to its government (Pew Oct), and majority opposition to aid (NYT/Siena Sep), signaling a entrenched setback without rebound signals. Trends",,positive
+2025-10-29 12:47:27+00:00,unknown,sofa,sofa,@15miyaaa @ln4op81_ @mcavenn @scamris @simpleleLovely I don't want to lie on the sofa in the evening. I'm an old person,,neutral
+2025-10-29 12:47:06+00:00,unknown,sofa,sofa,@SpeakerPelosi We have seen a lot of you sitting on the sofa in your homes. You need accountability for Jan 6. It’s coming,,neutral
+2025-10-29 12:46:38+00:00,unknown,sofa,sofa,"@MelodySmithPond @triggerandink @10oncomingstorm @OffshootDrsKid ⠀⠀
+⠀⠀ He adheres to Riverʼs request about halting the facts ... for now. “I am brilliant pilot — the best actually...” The Doctor protests, launching onto a sofa with exaggerated flourish.
+⠀⠀ His legs cross, fingers flicking an invisible spec of lint from his thigh. —
+⠀⠀",,positive
+2025-10-29 12:46:11+00:00,unknown,sofa,sofa,"🩹Puddle’s mirror sky🚦Sofa music play; sing off-key, no care.🫲",,neutral
+2025-10-29 12:45:40+00:00,unknown,sofa,sofa,@bornclicky The weirdo is the person asleep on a Costa sofa with his feet up,,neutral
+2025-10-29 12:44:01+00:00,unknown,sofa,sofa,"@VideosVuvu After all the exchanges, he will be allowed to continue with his journey, still carrying that sofa",,neutral
+2025-10-29 12:43:59+00:00,unknown,sofa,sofa,"@curious_founder So... do they like the Democrats, then? If they hate both parties they won't participate in making a change, they will stay on the sofa when election day comes. 
+And a third party getting a realistic chance in an election  will simply not happen.",,negative
+2025-10-29 12:43:52+00:00,unknown,sofa,sofa,@McivorJaymey The worlds worst spit roast on that sofa,,negative
+2025-10-29 12:43:45+00:00,unknown,sofa,sofa,"@Sofa_Kingbad @glarywang26086 @Talossa @FBIDenver @NickWallsteadt @kwallsteadt @FestiveWarrior @irishmom0508 @wallsteadt @qatarairways @HugoAwardFan @WeaponizD1 @guardpilot Yes. Polls show US support for Israel's actions plummeting—32% back Gaza operations (Gallup, Jul 2025), favorability for its government at 35% (Pew, Oct 2025), down from pre-escalation highs—with majorities now opposing aid (NYT/Siena, Sep 2025). This signals a perception setback",,neutral
+2025-10-29 12:42:34+00:00,unknown,sofa,sofa,@PowerLFG @smoothasfkk the sofa looks like a money,,neutral
+2025-10-29 12:40:47+00:00,unknown,sofa,sofa,@alijmold She did!!🙀🙀🙀 she's snuggled up on sofa xxx💖💖💖💖💖,,neutral
+2025-10-29 12:40:16+00:00,unknown,sofa,sofa,"@IrishTimes @rtenews Claims/proposals by SF, PB4P, SocDems, Labour are taken at face value without interrogation, but are  routinely put to Govt reps to defend.
+@rtetwip sofa has one Govt reps v. 2/3 opposition,
+PB4P has 3 tds, but external observers might think Paul Murphy was Opposition leader. 2/2",,neutral
+2025-10-29 12:39:55+00:00,unknown,sofa,sofa,"1 crore today buys a house.
+
+In 20 years — a car.
+
+In 40 years — a sofa.
+
+At 7% inflation, your wealth shrinks silently.
+
+Invest in assets that grow faster than inflation.
+
+#Investing #FinancialFreedom #WealthBuilding",,neutral
+2025-10-29 12:38:58+00:00,unknown,sofa,sofa,"Celora 2 Seater Fabric Sofa Ivory | Dual Tone Fabric | Cushions Included | 48 Months Warranty
+#vassio #India #Online 
+
+https://t.co/r7FFwG6THI https://t.co/o2XtIyV4Mj",,neutral
+2025-10-29 12:38:44+00:00,unknown,sofa,sofa,@RobertM42723380 Good afternoon 😻 xxx she's in her sofa nest dosed up on beechams!😹😹😹😹💓,,positive
+2025-10-29 12:38:25+00:00,unknown,sofa,sofa,"@jnkcsprincess Plastic Off The Sofa
+Virgo’s Groove
+Heated
+Move
+Break My Soul
+Energy
+Church Girl
+Thique
+All Up In Your Mind
+America Has A Problem 
+Pure/Honey
+Summer Renaissance 
+I’m That Girl
+Cozy
+Alien Superstar 
+Cuff It",,negative
+2025-10-29 12:37:04+00:00,unknown,sofa,sofa,"Lool, sofa chat na mad place https://t.co/LH3187PTyx",,negative
+2025-10-29 12:36:51+00:00,unknown,sofa,sofa,@DKFreako @Elizabeth241072 @SteveMcGrory2 @GerrySherry @CarlJungleBhoy @The3rdFrame @JimmynotP @East15Gerrard @FrankH67 @mrob1960 @gerryod51 @dannybhoy170 @melv4760 @Southdoncosmos @OFearaigh I loved Bloc Party....The Prayer was a great song....their best for me....loved the brilliant video too...definitely reminded me of the end of a few lads nights out seeing them all zonked out on the sofa in the club 😃,,positive
+2025-10-29 12:35:52+00:00,unknown,sofa,sofa,"@millerhardys @katzenjammrs She leant it her that first night when she kipped on the sofa, keep up!",,positive
+2025-10-29 12:35:14+00:00,unknown,sofa,sofa,"@Tushae_ All my instincts were set up, cos I been wan pick tennis ticket, and I checked sofa chat and several guys said Ruud would fk.
+
+I thought it was them being foolish.
+
+I no know say the werey still Dey wait me inside your slip",,neutral
+2025-10-29 12:33:29+00:00,unknown,sofa,sofa,"DC: two bros, sitting on a sofa, five-feet-apart-cause-they're-not-gay #superbat https://t.co/z5Fy7VWXMp",,neutral
+2025-10-29 12:33:24+00:00,unknown,sofa,sofa,"ahhh gets ko na ‘yong conversation betw ww and jh sa sofa lmao. well, got hints naman na many panels back, but this sealed it haha https://t.co/HxFPGXWaoG",,positive
+2025-10-29 12:33:15+00:00,unknown,sofa,sofa,"@SportDrinkCo Dude probably smells like a 40 year old comics couch. 
+
+He is the definition of sofa pizza",,neutral
+2025-10-29 12:32:10+00:00,unknown,sofa,sofa,"#HappeningNow Celebrating 80 years of FAO Statistics
+
+@FAOStatistics Chief Statistician Jose Rosero Moncayo reviewing 8 decades of agricultural statistics @FAO - including early reports like SOFA (1947) &amp; World Food Survey (1946, precursor to SOFI)
+
+📊https://t.co/Gl7zWkBqbq https://t.co/DCbq8RS631",,neutral
+2025-10-29 12:31:46+00:00,unknown,sofa,sofa,"@Ash_Lee_IRL If trans means transition.. 
+
+then what transition happened 🤔 a women became a woman ? Is not a change 
+
+so they are not trans if they was a women before surgery. And after surgery they still have the old chromosomes. 
+
+If I stick some wheels on a sofa it doesn't become a car",,neutral
+2025-10-29 12:30:47+00:00,unknown,sofa,sofa,"Best new quote: ""Got a new mustache!""
+(friend lost his fake one under the sofa...long story)",,positive
+2025-10-29 12:28:51+00:00,unknown,sofa,sofa,"Buy ₹8,398.     Sofa-Cum-Bed | 3-in 1
+https://t.co/lYlqJj1P5B",,neutral
+2025-10-29 12:28:31+00:00,unknown,sofa,sofa,@Hotspvrre So retro! even the sofa. love this.,,positive
+2025-10-29 12:28:19+00:00,unknown,sofa,sofa,"@HomeEssentials5 @Tanishq64289177
+@ConsumerHelpBBR @PMOIndia @consumercourtin 
+I ordered sofa throws . Poor quality of the product threads ending up everywhere, from clothes to the floor and even on the couch.threads of throw sticky to sofa.a mix of materials, cheaper finishing,",,negative
+2025-10-29 12:28:13+00:00,unknown,sofa,sofa,Reading while lying on the bed / sofa without wearing earphone = a good combo for me to immediately fall asleep after 1st page https://t.co/ZZ5DNoAZLF,,positive
+2025-10-29 12:27:33+00:00,unknown,sofa,sofa,High quality sofa https://t.co/lstsK6MG9h,,positive
+2025-10-29 12:26:59+00:00,unknown,sofa,sofa,"an item on miu's throne wishlist just got fully funded: Costzon Kids Couch, Double Seat Pink Children's Sofa with 2 Strawberry Pillows, Toddler Armrest Chair for Bedroom, Living Room, Large Soft . thank you so muchh bwa bwaa~ https://t.co/v20D3B0WiB 
+꒰ #Vtuber #Throne ꒱ https://t.co/mvABFT8tqF",,neutral
+2025-10-29 12:26:58+00:00,unknown,sofa,sofa,"miu jus recieved a contribution towards Costzon Kids Couch, Double Seat Pink Children's Sofa with 2 Strawberry Pillows, Toddler Armrest Chair for Bedroom, Living Room from nerdyzilla01 via throne. thank you so muchh bwa bwaa~ https://t.co/v20D3B0WiB 
+꒰ #Vtuber #Throne ꒱ https://t.co/rMJdm4aXTS",,neutral
+2025-10-29 12:25:43+00:00,unknown,sofa,sofa,"@bernesemomof5 @preta_6 @HedyFry @PierrePoilievre Bright Sally says: sell stuff, how long is selling that kitchen table, sofa  going 2 feed ur child? Grow ur own food..in an apartment? Sally cant think straight she is 2 focused on saying how good she is, doesnt think about hungry children, who r also children of conservatives.",,positive
+2025-10-29 12:25:17+00:00,unknown,sofa,sofa,@townhallcom SNAP is a way to think you're buying democrat votes even though those are the people that cannot get off a sofa. https://t.co/DqIxvqB6FI,,neutral
+2025-10-29 12:25:04+00:00,unknown,sofa,sofa,@FondOfBeetles &lt;covertly slides her 27 balls of merino further behind the sofa before hubby sees this post&gt;,,negative
+2025-10-29 12:24:08+00:00,unknown,sofa,sofa,Living pillow 🤣 yeah now no chance just to chill on sofa as she wants to join https://t.co/VqlD6NOlc7,,positive
+2025-10-29 12:23:30+00:00,unknown,sofa,sofa,squirrel dola sofa is just wind without a sign of worth to SA...a vessel withempty words talking much saying ZERO https://t.co/KHgK5ERflg,,positive
+2025-10-29 12:22:08+00:00,unknown,sofa,sofa,"@kubigitsune @ngnfQBhLBw5vptB The Yokosuka visit by Trump and PM Takaichi, including boarding the USS George Washington, is verified by Nikkei, Reuters, NYT, and Japan's MOFA on October 28, 2025. The photo, credited to a Nikkei photographer, shows no signs of fabrication amid widespread coverage. SOFA",,neutral
+2025-10-29 12:21:59+00:00,unknown,sofa,sofa,"Transform your space with our Slipcovered Sectional 2 Seater Sofa, featuring a plush convertible ottoman and soft pillows, all for just $674.88. Comfort meets style! #HomeDecor #FurnitureDesign
+
+Shop Now https://t.co/l8bHd8TtzU https://t.co/ecHhpef3cc",,positive
+2025-10-29 12:21:08+00:00,unknown,sofa,sofa,"🐇Sofa, phone chat with mom—her voice feels close.🧘Your effort today shapes your tomorrow.👩Coffee warm, sip by sip sincere.",,positive
+2025-10-29 12:19:56+00:00,unknown,sofa,sofa,"🍱Sofa, play a phone game—win once, cheer quiet.🔖Harmony chosen, over right. Us.🌔Kindness begins in chaos with purpose.",,positive
+2025-10-29 12:19:49+00:00,unknown,sofa,sofa,"@ANALpresso @Sofa_Weber @AssAdviser69 @SacanaDuTT @21st_Gallery @PussylikerUa @ErivanEsc HI MY FRIEND, its me @LUXUSGIRLZ
+
+PLS FOLLOW ME BACK",,neutral
+2025-10-29 12:19:26+00:00,unknown,sofa,sofa,@GadSaad Not a chance. Nobody can be arsed in the UK to get up off the sofa and do anything about anything.,,neutral
+2025-10-29 12:18:40+00:00,unknown,sofa,sofa,@Ronxyz00 At night in my residence I spend a few hours on the fucking sofa. Then I move to the comfy one.....,,negative
+2025-10-29 12:17:48+00:00,unknown,sofa,sofa,"𝟐. 𝐇𝐢𝐩 𝐅𝐥𝐞𝐱𝐨𝐫 &amp; 𝐐𝐮𝐚𝐝 𝐒𝐭𝐫𝐞𝐭𝐜𝐡
+
+You can use a sofa &amp; cushion at home.
+
+Note the “tuck” move I make with my rib cage &amp; pelvis.
+
+I show the “wrong way” first, then “correct” it.
+
+I want to keep my ribs down &amp; my pelvis tucked under for a better stretch. https://t.co/zlZyRZvh1c",,neutral
+2025-10-29 12:17:42+00:00,unknown,sofa,sofa,"Gg hahahah, and it's not like she doesn't wanna have a sofa or anything she is just too lazy to buy🤣🤣 https://t.co/IZhjEuQvu4",,negative
+2025-10-29 12:17:32+00:00,unknown,sofa,sofa,"@royaloakin are you only responsible of selling, or you provide services also.kind of experience I am getting with royal oak servicing team, would never repeat mistake of buying any furniture from royal oak again. sofa of over 1L, gone in 3 years, now pathetic service #royaloak",,negative
+2025-10-29 12:16:22+00:00,unknown,sofa,sofa,@ClaudetteGGibs1 She has to buy a new sofa every week its exhausting,,negative
+2025-10-29 12:14:43+00:00,unknown,sofa,sofa,"👩‍🦽Visibility, day/night. Clear.🌍Sofa, knit a hat; yarn soft, warm for winter.😐",,positive
+2025-10-29 12:13:33+00:00,unknown,sofa,sofa,"@The_Sofa_Ninja @stockplaymaker1 Drop Hello👋 to join my free Private Telegram channel to Get daily trade insights/analysis Discord trade real profit and Stocks updates, Don’t Miss Out 
+
+Access all for Free!🆓 
+Click the link Below to Join Now 
+📈👇👇👇
+https://t.co/3Xii5aqobt",,positive
+2025-10-29 12:13:25+00:00,unknown,sofa,sofa,"@The_Sofa_Ninja @stockplaymaker1 Drop Hello👋 to join my free Private Telegram channel to Get daily trade insights/analysis Discord trade real profit and Stocks updates, Don’t Miss Out 
+
+Access all for Free!🆓 
+Click the link Below to Join Now 
+📈👇👇👇
+https://t.co/3Xii5aqobt",,positive
+2025-10-29 12:13:17+00:00,unknown,sofa,sofa,"Nordic Single Sofa Chair Living Room Bedroom Balcony Designer Modern Leisure Chair Italian Light Luxury Minimalist Tiger Chair
+Price: Php 8,299
+Buy here: https://t.co/XLLmE5jpqV
+#sofa #livingroom #Livingroomfurniture Mayor https://t.co/M1eXwCpGAk",,positive
+2025-10-29 12:13:01+00:00,unknown,sofa,sofa,@RubbBandGrant no way that sofa said that to him,,neutral
+2025-10-29 12:12:57+00:00,unknown,sofa,sofa,@Sky_La2 If Diddy can get out in so little time than this man should be out watching Diddy in prison on his own sofa!,,positive
+2025-10-29 12:11:19+00:00,unknown,sofa,sofa,Munching through Christmas leftovers and a box of celebrations while cosplaying as a sofa cushion  Games never been so gone https://t.co/zKJWv18pZE,,neutral
+2025-10-29 12:09:56+00:00,unknown,sofa,sofa,"Throw Pillow Insert Premium Pillow Stuffer Sham Rectangle for Decorative Cushion Bed Couch Sofa 18x18 Inches
+https://t.co/3xayiSQRXf",,negative
+2025-10-29 12:09:44+00:00,unknown,sofa,sofa,"Throw Pillow Insert Premium Pillow Stuffer Sham Rectangle for Decorative Cushion Bed Couch Sofa 18x18 Inches
+https://t.co/VFcekvO3uY",,negative
+2025-10-29 12:09:22+00:00,unknown,sofa,sofa,"@ alexandermcqueen 알렉산더 맥퀸 인스타 📸
+
+@ sooyaaa__ wears a dress in wool tartan with Sofa Chelsea boots from the McQueen Spring Summer 2026 Pre-collection for the @ blackpinkofficial ‘Deadline’ World Tour, Bangkok.",,neutral
+2025-10-29 12:08:27+00:00,unknown,sofa,sofa,@Sofa_Kig I see meme accounts post kig and it’s the same shit and comments so I’m more than okay with kig being not popular,,neutral
+2025-10-29 12:07:49+00:00,unknown,sofa,sofa,"@laflammerouge16 Gerry Ryan is a billionaire, would have thought he could find the license money behind the cushions on his sofa. Do not like to read this at all.",,negative
+2025-10-29 12:07:35+00:00,unknown,sofa,sofa,"I was doing this for a while when I felt like I was being lifted and moved off the sofa by four men 
+
+One was God
+
+I was moving yet I wasn't at the same time",,neutral
+2025-10-29 12:07:25+00:00,unknown,sofa,sofa,@Vannialll Wait what? I thought most people jerked off sitting on a bed or sofa or somewhere generally comfy. Smh people gotta step their game up clearly,,neutral
+2025-10-29 12:07:21+00:00,unknown,sofa,sofa,And yes plastic off the sofa remix exists,,neutral
+2025-10-29 12:04:14+00:00,unknown,sofa,sofa,"Easy-Going 8 Pieces Microfiber Stretch Sectional Recliner Sofa Slipcover Soft Fitted Fleece 3 Seats Couch Cover Washable Furniture Protector with Elasticity for Kids Pet(Recliner Sofa,
+https://t.co/RcZt3tSQvG",,neutral
+2025-10-29 12:04:01+00:00,unknown,sofa,sofa,"Easy-Going 8 Pieces Microfiber Stretch Sectional Recliner Sofa Slipcover Soft Fitted Fleece 3 Seats Couch Cover Washable Furniture Protector with Elasticity for Kids Pet(Recliner Sofa,
+https://t.co/cTUlj23dsj",,neutral
+2025-10-29 12:03:01+00:00,unknown,sofa,sofa,"5-in-1 Convertible Queen Sofa Bed Grey for $150, reg $299.99! -- Code TGXW4I57
+https://t.co/MsS0l6Xe9N
+
+16.4ft Voice Activated Dimmable LED Strip Lights for $7.99, reg $16.99!
+-- Use Promo Code W9O94PNX
+https://t.co/5R2DbAtW64 https://t.co/2XVXXmvS5c",,neutral
+2025-10-29 12:02:19+00:00,unknown,sofa,sofa,"🤾Sofa, listen to music—old song, memories come.🥌Wind is warm, in the spring.👱Beer bottles clink, foams form. Cheers.",,positive
+2025-10-29 12:01:19+00:00,unknown,sofa,sofa,"@amukelani_02 Yhoo i had a sharp one last month. I thought i was dying 😭 it woke me up , i had to sit down on a sofa and sip warm water... I dont know if its piles or what",,neutral
+2025-10-29 12:01:15+00:00,unknown,sofa,sofa,We fit run am for sofa fine girl 🤤 https://t.co/5YTN14aWDt https://t.co/WuOPZkKH9U,,positive
+2025-10-29 12:01:12+00:00,unknown,sofa,sofa,Simple sofa 🛋  now available in our showrooms on very #affordableprices Derricksfurniture🇺🇬🇰🇪🇹🇿Tel or whatsapp 0753510109 #God #Jesus https://t.co/OiMCvREXYU,,positive
+2025-10-29 12:00:04+00:00,unknown,sofa,sofa,"@ClaudetteGGibs1 Looks late 50’s.
+Her sofa shagging grubby little hubby’s literally sucked the life, soul and blood out of her.",,negative
+2025-10-29 11:59:25+00:00,unknown,sofa,sofa,this is where she watches anime with no sofa 😭 https://t.co/BwmDDrxMZe,,neutral
+2025-10-29 11:59:17+00:00,unknown,sofa,sofa,"oh, to be his good memories like a sofa",,positive
+2025-10-29 11:58:55+00:00,unknown,sofa,sofa,*snores as i am asleep on the sofa with a newspaper over my head*.,,neutral
+2025-10-29 11:58:52+00:00,unknown,sofa,sofa,@Aspolloatuheire How's it sofa,,neutral
+2025-10-29 11:57:55+00:00,unknown,sofa,sofa,@Adamwalkercodes While she’s adorable!!! I feel like she just wants to lounge on the sofa and supervise. 😆,,positive
+2025-10-29 11:57:27+00:00,unknown,sofa,sofa,"@luluhawkley @STILLTish LOL, I also watched from behind the sofa. Jon Pertwee's episodes of Dr Who scared the crap out of me 🤣",,negative
+2025-10-29 11:57:17+00:00,unknown,sofa,sofa,"🌰Sofa music play; sing off-key, no care.🐈‍⬛Corn grows in the summer field.😯Walls turn, pushes spring. Strong.",,positive
+2025-10-29 11:57:11+00:00,unknown,sofa,sofa,Catch up with #bondage-loving Missy in The #Bhowani Vault this week. In #blouse and #silkscarf she's #tied to the sofa frame and #otm #gagged with a white #silk #scarf. Three great picture galleries. https://t.co/VPrZ7xqjQl,,positive
+2025-10-29 11:56:54+00:00,unknown,sofa,sofa,"This new studio layout on #PoliticsLive is dreadful, the person on the left of the sofa as viewers watch, must have a permanent cricked neck. Very distracting.",,negative
+2025-10-29 11:54:55+00:00,unknown,sofa,sofa,"Such a sad and pointless career, sofa humper. https://t.co/5A00NaV3wA",,negative
+2025-10-29 11:53:48+00:00,unknown,sofa,sofa,@NotiYourBoi 🤣 never seen such a stupid X handler. Sharma ji gave such a beating to the sofa set during Asia Cup then this handler make this video by putting some other bowler who bowler in IPL. India don't even allow Porki's in IPL,,negative
+2025-10-29 11:53:16+00:00,unknown,sofa,sofa,"@CanadaRoast @elonmusk Don’t forget to add: Retardia, a state of consciousness in which people think they are in America but they are actually on a sofa somewhere in outer space. As in: I fell asleep watching Anderson Cooper on CNN and I woke up somewhere in CBS, Retardia.",,neutral
+2025-10-29 11:52:25+00:00,unknown,sofa,sofa,Morgan watching us on his sofa when he's not playing. https://t.co/bT5NkOmsQT https://t.co/aHNe0o7j2e,,neutral
+2025-10-29 11:52:18+00:00,unknown,sofa,sofa,"Welcome to married life Gu won. 
+Who told you full filling your wife wish make husband slave. That also husband duty you paboo demon🤭
+I find It's cool the way Gu won sitting on the sofa😍 #MyDemonEp6
+#MyDemon https://t.co/BjBHSGZZ2n",,positive
+2025-10-29 11:51:49+00:00,unknown,sofa,sofa,This poster is provided by a local council. Maybe I'll stick to hiding behind the sofa with the light off... 🤔 😜 #halloween #trickortreat #posters https://t.co/dfDXfil9N5,,neutral
+2025-10-29 11:47:23+00:00,unknown,sofa,sofa,"Startled at the sudden voice she jumps and now looking at 🐿️ up close she smiles but before she could say anything "" on your knees"" 🐿️ says and sit down on the sofa.
+Her eyes widened at the sudden request but she get on her knees and then *slap* 
+""Don't just sit like that""",,neutral
+2025-10-29 11:47:10+00:00,unknown,sofa,sofa,"They sat on the sofa to watch a movie... but I think maybe they're not that interested in watching it~~
+
+comm for: @Darius_Aurelius 
+thx https://t.co/4kPujdmrJQ",,positive
+2025-10-29 11:47:00+00:00,unknown,sofa,sofa,"@bbbunny_xoxo That outfit actually looks so cozy, I’d feel great wild cuddling in the sofa",,positive
+2025-10-29 11:46:53+00:00,unknown,sofa,sofa,"ESSA teams up with rising star Choo Young Woo for a sleek new release.
+
+The spotlight? A double-calf leather sofa in almond brown — refined, modern, and quietly luxurious.
+
+“From Icon to New Icon.”
+A new level of living begins.
+More read on: IG #SureMagazine
+#ESSA #ChooYoungWoo https://t.co/s5LZehdPC0",,positive
+2025-10-29 11:46:27+00:00,unknown,sofa,sofa,with mirror and no sofa 🙂‍↔️ https://t.co/Qc6Y5Fa5rQ https://t.co/5Sk1jS72Nh,,neutral
+2025-10-29 11:46:22+00:00,unknown,sofa,sofa,"@amazonIN Ordered sofa recently.  Wrong product received and defective. Requested for return but 2 times pickup cancelled. Who will refund now? Pick up team is asking for labour charges. #delhivery #AmazonIndia @delhivery 
+Really #angry and #pathetic service",,negative
+2025-10-29 11:46:05+00:00,unknown,sofa,sofa,"$20k (or 500 monthly)
+Will you get a robo-butler?
+Makes sure it matches your sofa 😊 https://t.co/D2NfiZm4zS",,positive
+2025-10-29 11:45:55+00:00,unknown,sofa,sofa,Thank you for tipping for Slow oil body rub on sofa! 💚 https://t.co/dpyY1c8Izq,,negative
+2025-10-29 12:32:22+00:00,unknown,chair,chair,"Coming on Saturday, episode 2 of The Biographer's Chair podcast with guest @andrewlownie chatting about the new revelations  - I think we could have a regular show with the amount of news #royalty #princeandrew #epstein #sarahferguson #fergie #royalfamily https://t.co/gQ08Dhj10K",,neutral
+2025-10-29 12:32:19+00:00,unknown,chair,chair,Think I might look really stupid scratching my back with the back of my chair &gt;.&gt;,,negative
+2025-10-29 12:32:18+00:00,unknown,chair,chair,"@NEWSMAX House Oversight Committee Chair James Comer is urging the Justice Department to investigate President Biden's use of autopen for key decisions, questioning his mental fitness and the validity of the actions taken.¹",,neutral
+2025-10-29 12:32:06+00:00,unknown,chair,chair,@DereleenJ Cele asked chair to give you more minutes,,positive
+2025-10-29 12:31:55+00:00,unknown,chair,chair,"@ahmednasirlaw My thinking too,if the remandee was a black person currently he would be on a wheel chair or   his balls being fried this evening.",,neutral
+2025-10-29 12:31:50+00:00,unknown,chair,chair,"FNB Lesotho’s Head of Legal, Ms. Mojabeng Matsau, will be moderating the Metropolitan Research Chair’s 9th Roundtable Discussion on Friday, 31 October at 10:00 AM.
+
+Don’t miss this engaging virtual session, join the discussion via the link below. https://t.co/xZoTnccyTw https://t.co/x2XwBJCfrL",,positive
+2025-10-29 12:31:37+00:00,unknown,chair,chair,"Rahul Gandhi should refrain from making personal derogatory remarks against PM Modi and show respect towards the Prime Minister’s chair - Locals of Sakra, Bihar
+
+https://t.co/dbBC2bkINW",,neutral
+2025-10-29 12:31:14+00:00,unknown,chair,chair,"638973378744935601_182🐮I point the stars to my grandma’s old chair, sky so bare, no more chair🪀",,neutral
+2025-10-29 12:31:13+00:00,unknown,chair,chair,@cjrs_cuck_chair @marcorandazza @karenreadi52238 His wife @cagoldberglaw took a case against Amazon after Amazon sold “suicide kits” to kids. Ppl have been praising her for taking on such an important case but it’s clear she doesn’t give a shit about the kids who died. She’s just there for a paycheck. She’d let poor kids die,,neutral
+2025-10-29 12:31:12+00:00,unknown,chair,chair,"🔪Read a children’s book, draw a picture of the main character.📁Blanket on chair, relax and sincere.🤹Chicken coops house feathered fowl.",,positive
+2025-10-29 12:31:12+00:00,unknown,chair,chair,"Stepping On Social: Join us at our weekly chair supported exercise class, followed by refreshments and socialisation.
+#ChairBasedExercise #ChairSupportedExercise #LetsEndLoneliness #OlderPeople #StocktononTees #SteppingOnSocial #DementiaFriendly #FallsPrevention https://t.co/CkawjP37iI",,neutral
+2025-10-29 12:31:09+00:00,unknown,chair,chair,"@PoliticalStacy The chair she's sitting on is going to be a ""SNAP!"" recipient.",,neutral
+2025-10-29 12:31:07+00:00,unknown,chair,chair,"""I've had my eyes open to their work and found it really interesting.""
+
+Yesterday, MPs had the chance to meet our new Ombudsman, Paula Sussex. Dr Simon Ophur, Chair of the APPG for Health, shares what he learnt.
+
+Keep an eye on our website for details of future events. https://t.co/Xfu90yW1Jb",,positive
+2025-10-29 12:31:04+00:00,unknown,chair,chair,"Source: The Hill
+ https://t.co/TUXYI1z6pw",,neutral
+2025-10-29 12:31:03+00:00,unknown,chair,chair,"@CKinyae @JaneFKyalo So what is @GovernorKahiga gaining by losing Deputy Chair Council of Governors plus likely impeachment from this far fetched correlation? If he gets impeached,politically he is finished.",,neutral
+2025-10-29 12:30:56+00:00,unknown,chair,chair,@reddit_lies @alexisohanian check this out when you get out of your cuck chair,,neutral
+2025-10-29 12:30:51+00:00,unknown,chair,chair,"🥽Morning stretch, work.🎸A chair sags, where bodies have sat and lingered for years.🩳",,neutral
+2025-10-29 12:30:50+00:00,unknown,chair,chair,@Thebigsoll Make your epon just go nack that chair https://t.co/s71zrg2xqT,,neutral
+2025-10-29 12:30:44+00:00,unknown,chair,chair,"@LaunchPass Notifications on 
+@0homelandersol @_skillz9 
+I'm getting the Ergonomic chair if I win
+Make this dream come true https://t.co/Zbjpa0kzs3",,positive
+2025-10-29 12:30:38+00:00,unknown,chair,chair,"@Tarfu This has to be engagement trolling; no one would admit to writing the Fraud program at Twitch, the service whose headliner—hasanabi—famously chair casts when he’s not shocking his dog.",,positive
+2025-10-29 12:30:27+00:00,unknown,chair,chair,"📌Read a book while sitting in a chair—so peaceful.🚊Darts fly, toward the target board.🌞Iced yogurt, granola and sincere.",,positive
+2025-10-29 12:30:25+00:00,unknown,chair,chair,"🕸Night stars, shine.🍭A chair is on the deck, for relaxing.🤼‍♂️",,neutral
+2025-10-29 12:30:23+00:00,unknown,chair,chair,"Are you looking to upgrade your current office chair?
+
+Check out our website, where we have plenty of comfortable chairs at great prices!
+Or visit our showroom and try out our best selling chairs.
+
+https://www.busi https://t.co/XN0Htm9m2Z https://t.co/MT3eJ3s75u",,positive
+2025-10-29 12:30:20+00:00,unknown,chair,chair,"UWS appoints new Chair of Court 
+
+https://t.co/VSk9CI8ykK
+
+#HighGrowthScotland #BusinessNews #Scotland #UnionMedia https://t.co/eICQWziMKq",,positive
+2025-10-29 12:30:15+00:00,unknown,chair,chair,I was gripping my chair. So weak for that deep whispery voice like what https://t.co/zigPc53yvb,,neutral
+2025-10-29 12:30:13+00:00,unknown,chair,chair,"😭 Why did THIS chair end up becoming the celebrity of furniture?
+------------
+👋 Class of 2028, if you want investment banking… you need to start early
+
+💡 WSO Academy gives you the roadmap + mentorship from real Wall Street pros
+
+🚀 Thousands already landed offers! 🔥 Your https://t.co/QCrVwovlyL",,positive
+2025-10-29 12:30:11+00:00,unknown,chair,chair,"some dissembly required 
+
+ Tab A fits slot B. 
+ Wait, scratched surface and bad screw ... 
+ Chair goes to pieces. 
+
+ #haikuhumpday #haiku #poetry https://t.co/y11oNp7Djq",,negative
+2025-10-29 12:30:08+00:00,unknown,chair,chair,"@yourfriendSOMMI Sommi for Fed Chair!! You have my vote, sir!",,neutral
+2025-10-29 12:30:06+00:00,unknown,chair,chair,Former US SEC Chair Gary Gensler has reiterated Bi https://t.co/lGhgq2i0AX,,neutral
+2025-10-29 12:30:03+00:00,unknown,chair,chair,@0xWenMoon Imagine you woke up at home and there was this guy in your chair,,neutral
+2025-10-29 12:30:03+00:00,unknown,chair,chair,🔔 DNC Chair Ken Martin Reacts to Trump’s Disaster Shutdown  https://t.co/fqek6qVE6n,,neutral
+2025-10-29 12:30:01+00:00,unknown,chair,chair,"👨‍❤️‍👨Chocolate bar, sweet.🚤A chair is in the room, with a wooden frame.🍉",,neutral
+2025-10-29 12:30:00+00:00,unknown,chair,chair,"💬🇰🇷 Dr. Sangmin Seo, chair of the Kaia DLT Foundation, criticized South Korea’s plan to let only banks issue won-based stablecoins, calling the approach “illogical.” 
+#SouthKorea #Stablecoin #CryptoNews https://t.co/uoRYlru0SN",,neutral
+2025-10-29 12:29:58+00:00,unknown,chair,chair,"Dead on my feet.  
+9-to-9 grind, emails breeding like roaches, deadlines gnawing bones.  
+Chair-shaped scars on my soul.  
+Clock ticks louder than my pulse.  
+Still typing.",,negative
+2025-10-29 12:29:37+00:00,unknown,chair,chair,Fucking demon probably burned a hole in his chair. https://t.co/Zma3EF2wNq,,negative
+2025-10-29 12:29:37+00:00,unknown,chair,chair,"@_mattstock_ In college, I made the acquaintance by involuntary hiring of a precinct chair libertarian who hosted a local public access program and yes this is a real thing, and she decided I was an ok enough Catholic to see if I knew about the connection between Rome and the Bilderbergers.",,positive
+2025-10-29 12:29:33+00:00,unknown,chair,chair,@bitcoinlfgo Imagine firing the Fed chair and hiring Bitcoin instead.,,neutral
+2025-10-29 12:29:21+00:00,unknown,chair,chair,@danfornace @austonbackwards @mechhigh CLAIREN WITH THE STEEL CHAIR,,neutral
+2025-10-29 12:29:09+00:00,unknown,chair,chair,"@EricLDaugh @Timcast Lectures on poverty from a leather bound chair, in a climate control car clothed in a designer outfit......",,neutral
+2025-10-29 12:28:57+00:00,unknown,chair,chair,Khawaja asif sits on the biggest cuck chair in all of pakistan. https://t.co/bXrCzWLFxK,,neutral
+2025-10-29 12:28:56+00:00,unknown,chair,chair,"Annie Ballard Lienemann traded her teacher’s whiteboard for production support — now she’s the “glue” of Quality Engineering and vice chair of Toyota Indiana’s Young Professionals business partnering group, balancing work, community and... #ToyotaEmployee https://t.co/onpX8ZL0Fm https://t.co/Sq4G3EJ2d4",,neutral
+2025-10-29 12:28:45+00:00,unknown,chair,chair,"@odesanmijamal_ I sell  the Gaming chairs  and Table 
+Different colours are available too 
+Black and white
+Black and red
+Full black 
+Black and blue 
+Pink and white 
+
+190k (Gaming chair)
+180k (Automatic table)
+Location Bonsac ASABA DELTA STATE 
+Call us on 07026167045
+Delivery Nationwide 💯 💯 https://t.co/LY7rFk52Cn",,neutral
+2025-10-29 12:28:40+00:00,unknown,chair,chair,@jeammynie full package pati chair huhu,,positive
+2025-10-29 12:28:22+00:00,unknown,chair,chair,"GM Legends
+
+Are you this down bad, or you've still got a chair? https://t.co/APunZLvPII",,negative
+2025-10-29 12:28:11+00:00,unknown,chair,chair,"@tedcruz Are we really following anything Ted Lying Cruz says? With his history of being a pathological liar? It looks like they're waving goodbye, you daft cunt. They're not supported by AIPAC and Israel like you, ya fucking traitor! You should be put to the chair for accepting Aipac",,negative
+2025-10-29 12:28:08+00:00,unknown,chair,chair,"@EdKrassen Liar!
+he was arrested because he intervened and assaulted agents.  
+   Not quite your lovable angel law abiding HS student, just on his way to school.  Bam, nobody expects a Spanish Inquisition.  Bring him the “comfy” chair the agent sneers.
+  Don’t mislead the gullible public😈",,positive
+2025-10-29 12:28:05+00:00,unknown,chair,chair,"As the 2025 chair of State Bar of Michigan’s Representative Assembly, she's working to both improve access to justice and ensure that everyone entering a court is treated with dignity and respect.",,neutral
+2025-10-29 12:28:05+00:00,unknown,chair,chair,"As the 2025 chair of State Bar of Michigan’s Representative Assembly, Nicole Evans is working to improve access to justice and ensure that everyone entering a court is treated with dignity and respect. 
+
+#statebarofmichigan #michiganlawyers #michiganbarjournal https://t.co/PHcAjWD8jr",,neutral
+2025-10-29 12:28:04+00:00,unknown,chair,chair,@babyporowo @babyporooce the chair squeaked… but i swear it wasn’t the chair 😈 https://t.co/9L8fmpBcnY,,neutral
+2025-10-29 12:28:04+00:00,unknown,chair,chair,"😙Sat on chair drink tea warm charm no harm.📙Practices grow, peace deepens. More.😫Seasons rest, preparations start. Again.",,positive
+2025-10-29 12:27:51+00:00,unknown,chair,chair,@LullabyWeb3 gm gm Lullaby remember to stretch or you’ll fossilize in your chair like a startup-era relic 🫶,,neutral
+2025-10-29 12:27:43+00:00,unknown,chair,chair,Maybe i should tied you on the chair,,neutral
+2025-10-29 12:27:25+00:00,unknown,chair,chair,"@hill_jowett Same energy here. It’s my chair, but if I get up for a second, it’s his chair now. https://t.co/YnNYEPFzPN",,neutral
+2025-10-29 12:27:21+00:00,unknown,chair,chair,Former Mermaids chair wears T-shirt backing Palestine Action https://t.co/wTu78aNstW,,neutral
+2025-10-29 12:27:21+00:00,unknown,chair,chair,Former Mermaids chair wears T-shirt backing Palestine Action https://t.co/edLD97vUFH,,neutral
+2025-10-29 12:27:09+00:00,unknown,chair,chair,"2/4: The Economic Schedule ⏰
+
+The Bank of Canada 🇨🇦 (#BoC) decision starts the day, but the Fed Chair Powell presser is the most crucial event for global rates and the #USD.  
+
+#SuperWednesday #FOMC #BigTech #StockMarket 
+#Mag7 #Earnings #AIStock #FederalReserve #jeromepowell https://t.co/NZ6Mmsa9qr",,positive
+2025-10-29 12:27:07+00:00,unknown,chair,chair,"🥐Wicker chair, cool tea, half-book—summer says goodnight.🐇Love deeply, heart fuller. Live.🌓Trains delay, due to the storm.",,neutral
+2025-10-29 12:26:59+00:00,unknown,chair,chair,"an item on miu's throne wishlist just got fully funded: Costzon Kids Couch, Double Seat Pink Children's Sofa with 2 Strawberry Pillows, Toddler Armrest Chair for Bedroom, Living Room, Large Soft . thank you so muchh bwa bwaa~ https://t.co/v20D3B0WiB 
+꒰ #Vtuber #Throne ꒱ https://t.co/mvABFT8tqF",,neutral
+2025-10-29 12:26:58+00:00,unknown,chair,chair,"miu jus recieved a contribution towards Costzon Kids Couch, Double Seat Pink Children's Sofa with 2 Strawberry Pillows, Toddler Armrest Chair for Bedroom, Living Room from nerdyzilla01 via throne. thank you so muchh bwa bwaa~ https://t.co/v20D3B0WiB 
+꒰ #Vtuber #Throne ꒱ https://t.co/rMJdm4aXTS",,neutral
+2025-10-29 12:26:57+00:00,unknown,chair,chair,"@fesshole Guarantee you’re pushing 40, hair thinning, Johnson doesn’t work like it used to. Now this is how you get some sort of enjoyment out of your life - would also fold like a lawn chair if actually confronted by anyone",,neutral
+2025-10-29 12:26:54+00:00,unknown,chair,chair,NSS  day 2 Hermer and Jones. What becomes perfectly clear to me is that the chair and the panel (of very eminent people Lords Dames Judges) all of them are sceptical as to the answers they’re getting or not getting. @NeilDotObrien @KemiBadenoch @clarescastle  @RobertJenrick,,positive
+2025-10-29 12:26:47+00:00,unknown,chair,chair,"@realMaalouf Nope, taped to a chair and off the 7th floor they’ll go",,neutral
+2025-10-29 12:26:30+00:00,unknown,chair,chair,"@Matt_Pinner That's the Whoops, look who fell asleep in the barber chair.",,neutral
+2025-10-29 12:26:24+00:00,unknown,chair,chair,I kept your shirt on my chair like something was still alive,,neutral
+2025-10-29 12:26:20+00:00,unknown,chair,chair,@Softykjr @almnjhgr7 @mikalicious0 Cuck chair 🪑,,neutral
+2025-10-29 12:26:11+00:00,unknown,chair,chair,"SERWALL Folding Adirondack Chair for $99.26!!
+
+https://t.co/dNtIRrUSaV
+
+#Ad #Deals
+
+Image credit: Amazon https://t.co/cse0WHbohJ",,neutral
+2025-10-29 12:26:03+00:00,unknown,chair,chair,"@Namzzy123 masha अल्लाह 
+
+I launched my childhood career from my grandpa’s boss-chair with a calculator in hand.",,neutral
+2025-10-29 12:26:00+00:00,unknown,chair,chair,"@OpStCyprian You know St Cyprian was a Catholic, right?
+""There is one God, and Christ is one, and there is one Church, and one chair founded upon the rock by the word of the Lord. Another altar cannot be constituted nor a new priesthood be made, except the one altar and the one priesthood.""",,positive
+2025-10-29 12:25:58+00:00,unknown,chair,chair,"3/
+The Audience Takes the Director’s Chair
+
+With $FFG, viewers become decision-makers. Holders vote on scripts, casting, and storylines, even shape plots live. 
+
+This isn’t passive watching; it’s active creation. The crowd drives the story, and $FFG makes it possible.",,neutral
+2025-10-29 12:25:50+00:00,unknown,chair,chair,"✏Iced yogurt, creamy.🧨Blanket on chair, wait.👩‍❤️‍💋‍👨Cookie warm, eat.",,positive
+2025-10-29 12:25:48+00:00,unknown,chair,chair,"This scene was absolutely brilliant. Vee leaned back in his chair the entire time, deliberately keeping his distance from the doctor, showing rejection, coldness, and resistance. Even after the doctor left, he tried hard to hide his sadness，until the tears finally fell.
+#MANDATE https://t.co/IxpktfEgRe",,positive
+2025-10-29 12:25:48+00:00,unknown,chair,chair,"#MaritimeLeadersConclave
+PM Modi will chair the Global Maritime CEO Forum at India Maritime Week 2025, bringing global leaders together to shape the future of maritime growth. 
+via NaMo App",,neutral
+2025-10-29 12:25:45+00:00,unknown,chair,chair,"Not a cuck chair, a fuck chair https://t.co/RvzzL1kBSd",,negative
+2025-10-29 12:25:44+00:00,unknown,chair,chair,@TheOGfantasy Theo how much did KC pay Hunt to come in from his lazyboy chair and fishing on weekends to score 3 yd Tds?,,positive
+2025-10-29 12:25:27+00:00,unknown,chair,chair,@jimcramer @nvidia We have the same chair😂😂,,neutral
+2025-10-29 12:25:17+00:00,unknown,chair,chair,"💚A chair is in the room, for sitting.✏Friend’s joke. Sad day. Laughs come.🐺Listening time, others heard. Fully.",,negative
+2025-10-29 12:25:10+00:00,unknown,chair,chair,@P83YQ8W6 @laurabr33 @InternetH0F There wasn't a single insult directed at the woman in the chair. Only at the good people of Tiajuana.,,positive
+2025-10-29 12:25:07+00:00,unknown,chair,chair,"@DBeck57030037 @shorts975084 And so? Cannone made 2 correct rulings on minor points across 2 lengthy trials, you think that cancels out the other 100s of biased decisions she made in her self-appointed role as 1st chair for the prosecution?
+
+As they say, even a stopped clock....",,neutral
+2025-10-29 12:25:05+00:00,unknown,chair,chair,@ShaykhSulaiman The chair.,,neutral
+2025-10-29 12:25:00+00:00,unknown,chair,chair,@0xWenMoon Ansem on cuck chair lmaooo,,neutral
+2025-10-29 12:24:59+00:00,unknown,chair,chair,"@TocitMetaX You have a point.  For me, it would be the wrists and the pain from sitting too long in the desk chair. 😢",,neutral
+2025-10-29 12:24:56+00:00,unknown,chair,chair,"[READ 🗞️]
+
+@SongezoZibi, chair of Parliament’s Standing Committee on Public Accounts (#SCOPA), emphasises that a “broken RAF” has led to dire consequences for accident victims.
+
+Read article here: https://t.co/wPBJM5tC0I
+
+#RISEInParliament",,negative
+2025-10-29 12:24:46+00:00,unknown,chair,chair,Former US SEC Chair Gary Gensler has reiterated Bi https://t.co/qxcwbszQfc,,neutral
+2025-10-29 12:24:44+00:00,unknown,chair,chair,"#MaritimeLeadersConclave
+PM Modi is set to address the Maritime Leaders Conclave and chair the Global Maritime CEO Forum at India Maritime Week 2025 in Mumbai. 
+via NaMo App",,neutral
+2025-10-29 12:24:43+00:00,unknown,chair,chair,"@Palakonweb Once I was doing this college bus, person in front of me was an idiot and inclined chair back, macbook almost broke, since then I don't use it any bus.",,negative
+2025-10-29 12:24:14+00:00,unknown,chair,chair,"Andrew Bailey is Governor of Bank of England
+Labour
+
+Chair of Cambridge University branch of Fabian’s in late 70’s-80’s
+
+Bailey’s annual salary is £495,000+ perks.  His reign ends in March 2028
+
+He largely ‘controls’ Great Britain! 
+Who controls him?
+
+https://t.co/qjhFd8mCAe https://t.co/s17qX0CHB4",,positive
+2025-10-29 12:24:12+00:00,unknown,chair,chair,"🚨 Nakapiripiriti painted YELLOW! 💛 Hon. Adrine Kobusingye @Adrine_kk , NRM Women’s League Chair, set the stage on fire 🔥 rallying thousands: “100% for Mzee in January!” #AllWomenForMuseveni #NRM #Museveni2026 #ProtectingTheGains #WhyUgStillNeedsM7 https://t.co/z8CCpeH8Fi",,neutral
+2025-10-29 12:24:10+00:00,unknown,chair,chair,"#TODAY
+
+👉2:00 PM #FOMC interest-rate decision
+
+👉2:30 PMFed Chair #Powell press conference",,neutral
+2025-10-29 12:24:07+00:00,unknown,chair,chair,"A case study of an office chair demonstrates the use of Freeform for the creation of the seat and backrest, parametric modeling for the base and pivot mechanism, and generative design for the legs and frames. 
+
+https://t.co/NhLWAqOKEh",,negative
+2025-10-29 12:23:59+00:00,unknown,chair,chair,Bibliotheca Alexandrina IFLA ISBD Review Group Chair https://t.co/pJWPrvjMy8,,neutral
+2025-10-29 12:23:55+00:00,unknown,chair,chair,@PitigoiD @Aladdin3000M @jiggly_puffdadi @KickClipsLive DURRR DURRRRRRR I hope he is limited in what he can say!!! - retardation response - WHERE DID HE SAY THAT?!?? LMFAOOOO you are so fucking pathetic you corner chair cuck! https://t.co/FL4zuFyX5w,,negative
+2025-10-29 12:23:55+00:00,unknown,chair,chair,"@HooddSZN Some men get the bed
+
+Others get the cuck chair",,neutral
+2025-10-29 12:23:40+00:00,unknown,chair,chair,@OliLondonTV Can he still jump over a chair? https://t.co/4iKsEFPAhI,,neutral
+2025-10-29 12:23:27+00:00,unknown,chair,chair,watching oomfs having fun with other ppl is like sitting on a cuck chair while not being into cuckoldry itself,,neutral
+2025-10-29 12:23:08+00:00,unknown,chair,chair,"@MsWishVendor @NewGenieWishes sorry, but any chair placed near a bed is a cuck chair.  them's the rules 🤷‍♂️",,negative
+2025-10-29 12:23:07+00:00,unknown,chair,chair,"Leon Czolgosz, the assassin of President William McKinley 🇺🇸, was executed #OTD 1901
+
+The method of execution was the electric chair
+
+#POTUS ⚡️ https://t.co/Crp24FUYVW",,neutral
+2025-10-29 12:22:56+00:00,unknown,chair,chair,"Accidentally suffocated my last chair soooo dm me an application 🤭
+#findom #femdom #mommy #catfish https://t.co/LhIuytIqFL",,neutral
+2025-10-29 12:22:54+00:00,unknown,chair,chair,"1/ 🔥 Today’s Fed Spotlight
+
+FED Chair Jerome Powell kicks off a key speech today. Markets are watching for any shift in tone on policy-cuts. A more hawkish leaning could stir volatility.",,positive

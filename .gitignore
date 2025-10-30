@@ -1,0 +1,35 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folder (if using a virtual environment)
+venv/
+env/
+virtual/
+*.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Streamlit specific cache and config files
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Python IDE config files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables files
+.env
+
+# Database files
+*.sqlite
+*.db
