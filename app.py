@@ -79,6 +79,11 @@ if fetch_live:
                         lambda t: analyze_sentiment(t, engine=engine)["label"]
                     )
                     live_df["category"] = cat
+
+                    # ✅ Convert dates to DD-MM-YYYY format before saving
+                    if "date" in live_df.columns:
+                        live_df["date"] = pd.to_datetime(live_df["date"]).dt.strftime("%d-%m-%Y")
+
                     all_data.append(live_df)
 
                     # Save per-category CSV
@@ -87,6 +92,7 @@ if fetch_live:
                     cat_filename = f"data/tweets_{cat}_{timestamp}.csv"
                     live_df.to_csv(cat_filename, index=False, encoding="utf-8")
                     st.write(f"💾 Saved category data to `{cat_filename}`")
+
 
                 else:
                     st.warning(f"No tweets found for '{cat}'.")
@@ -104,6 +110,9 @@ if fetch_live:
         # Save combined dataset
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         combined_filename = f"data/tweets_combined_{timestamp}.csv"
+        if "date" in df.columns:
+            df["date"] = pd.to_datetime(df["date"]).dt.strftime("%d-%m-%Y")
+
         df.to_csv(combined_filename, index=False, encoding="utf-8")
         st.success(f"✅ All fetched data saved to `{combined_filename}`")
     else:
